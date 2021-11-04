@@ -1,6 +1,6 @@
 <?php
 
-class EmpleadoTests extends \PHPUnit\Framework\TestCase
+class EmpleadosTests extends \PHPUnit\Framework\TestCase
 {
 
     public function crearEventual($nombre = "Kimey", $apellido = "Wilkinson", $dni = "44333222", $salario = "4000", $montos = [400, 400])
